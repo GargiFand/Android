@@ -20,6 +20,7 @@ Below are some android based mini projects based on various domain.
 |[Hiker App](./HikerApp/)| This is a simple location tracking app,it takes the user's current location then displays the latitude, longitude, accuracy, altitude, and address on the screen.|
 |[Jokes App](./JokesApp/)| The app then displays the jokes in a card stack. The user can swipe left or right to like or dislike a joke. |
 |[Learn Multiplication](./LearnMultiplication/)| This app generates a random multiplication question, and speaks the question to the user, waiting for the user to answer.|
+|[LED Panel Controller (Flutter)](./LedPanelControllerApp/)| Flutter app to connect to the ESP32 signage controller and send LED wall messages.
 |[Lyrical](./Lyrical/)| Simple Lyrics fetching app when the user enters an artist name and a song title.|
 |[Martial Arts](./MartialArts/)| The app uses a database to store martial arts information.|
 |[Math4Kid](./Math4Kid/)| This is a basic Math Educational app for kids.|

@@ -1,0 +1,15 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+build/
+flutter_export_environment.sh
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# macOS/Linux
+.DS_Store
